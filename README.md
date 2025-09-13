@@ -14,7 +14,7 @@
 
 1. **Клонируйте репозиторий**:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/soeurekane/console_telegram_bot.git
 cd console_telegram_bot
 ```
 
